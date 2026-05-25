@@ -8,4 +8,4 @@ if(fome === "nao" || dinheiro === "nao"){
     console.log("Peça um delivery")
 }else{
     console.log("hoje o jantar sera no seu restaurante favorito!")
-};
+}
